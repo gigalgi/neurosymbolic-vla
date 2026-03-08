@@ -444,6 +444,3 @@ Apache License 2.0 — see [LICENSE](LICENSE) for details.
 
 This repository contains no proprietary code from any third party. All implementations are original works of the author released under Apache 2.0.
 
-Apache License 2.0 — see [LICENSE](LICENSE) for details.
-
-This repository contains no proprietary code from any third party. All implementations are original works of the author released under Apache 2.0.
