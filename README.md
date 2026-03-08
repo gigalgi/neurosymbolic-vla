@@ -1,6 +1,6 @@
 # 🌎 neurosymbolic-vla
 
-**Neurosymbolic Vision-Language-Action architecture grounded in a Semantic World Model. Independent open-source reimplementation. In development.**
+**An open source Neurosymbolic Vision-Language-Action architecture grounded in a Semantic World Model. In development.**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
